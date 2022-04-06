@@ -1,2 +1,2 @@
 # UniversalisBot
-Bot made for Universalis website for scraping data from it
+Bot made for [Universalis](https://universalis.app/) website for scraping data from it
